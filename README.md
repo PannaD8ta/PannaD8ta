@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 
 <!--
 [![PannaD8ta's github stats](https://github-readme-stats.vercel.app/api?username=PannaD8ta)](https://github.com/anuraghazra/github-readme-stats)
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PannaD8ta)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
